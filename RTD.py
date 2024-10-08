@@ -1,3 +1,5 @@
+#this is the python code for tallies
+
 tallies = {
     'I': 1,
     'V': 5,
